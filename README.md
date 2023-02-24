@@ -7,6 +7,7 @@
 `pytorch==1.10`
 
 # Dataset preparation
+- Download VisDA dataset into `data/train/` (source domain) and `data/validation/` (target domain).
 
 # Usage
 1. **Train source model**: `python train_src.py`
